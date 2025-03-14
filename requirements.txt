@@ -1,0 +1,11 @@
+plotly==5.23.0
+psycopg2-binary==2.9.9
+dbt-duckdb==1.8.2
+duckdb==1.0.0
+magic_duckdb==0.1.27
+seaborn
+streamlit
+plotly.express
+flask
+request
+jsonify
